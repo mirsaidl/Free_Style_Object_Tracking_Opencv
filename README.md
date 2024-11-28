@@ -1,7 +1,8 @@
 Demo Link: https://drive.google.com/file/d/1YcbvMeScHub2fz-GDxXPNGrvCYusKuQr/view?usp=sharing
 
 Name: Abdurasulov Mirsaid
-ID: 12225253
+
+Student ID: 12225253
 
 ### Project details
 This project is for Digital  Image Processing class 
