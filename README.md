@@ -4,6 +4,9 @@ Name: Abdurasulov Mirsaid
 
 Student ID: 12225253
 
+
+[Watch the video](https://github.com/user-attachments/assets/a0efba14-0df7-438e-a522-7c92275dec4d)
+
 ### Project details
 This project is for Digital  Image Processing class 
 
